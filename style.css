@@ -154,4 +154,41 @@ main section{
 }
 .skill-des{
     text-align: justify;
+    margin-top: 50px;
+}
+/*Resume section style here*/
+.resume-col-title{
+    color: #474747; 
+    font-size: 30px;
+    line-height: normal;
+}
+.resume-container{
+    display: flex;
+    gap: 70px;
+    margin-top: 100px;
+}
+.resume-item-institute, .resume-item-des{
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+.resume-item-title{
+    color:#474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+.resume-container hr{
+    margin: 30px 0;
+}
+.resume-item-des{
+    margin-top: 20px;
+}
+.resume-col-title{
+    margin-bottom: 20px;
+}
+/*download-cv part style*/
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 110px;
 }
