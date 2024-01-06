@@ -65,7 +65,7 @@ nav a {
 .header {
     background-color: #fff8f3;
     background-image: url("images/header_bg.png"), url('images/developer.png');
-    background-size: 650px 400px, 130px 690px;
+    background-size: 650px 400px, 120px 690px;
     background-position: bottom right, top left;
     background-repeat: no-repeat;
     
