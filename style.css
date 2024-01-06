@@ -104,6 +104,9 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+main section{
+    margin-top: 130px;
+}
 
 
 /*About section styles*/
@@ -140,10 +143,15 @@ main{
     
 }
 .skill{
-    padding: 30px;
+    padding: 40px;
     border-radius: 5px;
     background: #FFF;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.2);
 }
+.skill-title{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
 .skill-des{
+    text-align: justify;
 }
